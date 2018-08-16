@@ -1,3 +1,7 @@
+# how to use
+# ruby caesar_cipher.rb path/to/the/file keyNumber
+# ruby caesar_cipher.rb textfile.txt 3
+
 
 def encrypt(char, shift) 
 	alphabet = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
